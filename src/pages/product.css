@@ -1,0 +1,14 @@
+#overall {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+img {
+    display: block;
+    width: 45%;
+}
+
+#info {
+    display: block;
+    width: 45%;
+}
